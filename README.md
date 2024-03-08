@@ -1,5 +1,7 @@
 # Handy-Physics-Engine
 
+⚠️⚠️⚠️ NOT OUT YET BUT STAR THIS REPO SO YOU CAN KNOW WHEN ITS OUT ⚠️⚠️⚠️
+
 ## Q&A
 
 Q: What Is This?
