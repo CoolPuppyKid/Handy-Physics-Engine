@@ -1,6 +1,26 @@
 # Handy-Physics-Engine
 
-⚠️⚠️⚠️ NOT OUT YET BUT STAR THIS REPO SO YOU CAN KNOW WHEN ITS OUT ⚠️⚠️⚠️
+## Warning this project is brand new the is not much in the wiki on how to set it up also its laggy and many other things
+
+---
+
+## Known Bugs
+
+### 1. SinglePlayer not optimized
+
+### 2. can be laggy
+
+### 3. only tested on quest 3, quest 2
+
+### 4. currently only really works to make multiplayer games i need to fix that
+
+### 5. there is no help on what to do or how to use it
+
+### 6. project is not open source cause im to lazy to setup git i will fix that soon
+
+### 7. its like 2am and i very quickly published this it isint even an beta it is a **VERY EARLY** version
+
+---
 
 ## Q&A
 
@@ -11,7 +31,7 @@ A: handy is a unity physics plugin that allows you add physics to any vr game
 ---
 Q: Is it open-source?
 
-A: Yes.
+A: Not right now its like 2am and im to lazy to setup git
 
 ---
 Q: is it free
@@ -36,4 +56,4 @@ A: Yes.
 ---
 Q: Is there documentation
 
-A: Yes.
+A: not very good
