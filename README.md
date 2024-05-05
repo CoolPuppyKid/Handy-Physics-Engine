@@ -2,6 +2,8 @@
 
 ## Warning this project is brand new the is not much in the wiki on how to set it up also its laggy and many other things
 
+## BEING REBUILT
+
 ---
 
 ## Known Bugs
